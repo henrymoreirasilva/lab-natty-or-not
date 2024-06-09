@@ -35,8 +35,12 @@ Iniciei solicitando ao ChatGPT, com um prompt simples, um texto para um vídeo c
 Após pesquisar algumas ferramentas de produção de vídeo, acessei o LOVO GENNY. Foi meu primeiro contato com a ferramenta. No Genny, consegui transformar o texto gerado pelo ChatGPT em narração. Importei algumas imagens e vídeos da propria biblioteca do Genny. Também utilizei algumas imagens geradas no Leonardo.AI. O resultado pode ser visto no link abaixo. Foi o primeiro vídeo que criei.
 
 ## 🚀 Resultados
-[Link do vídeo](https://genny.lovo.ai/share/ad8d48d4-6809-41b1-bf7a-7299b6d9f649)
+
 
 ## 💭 Reflexão (Opcional)
 Foi bastante desafiador pois optei por criar um vídeo. Como nunca havia criado um, achei que seria a oportunidade ideal para demonstrar como as ferramentas de inteligência artificial podem nos ajudar na crição de conteúdo.
 
+markdown ```
+
+### Link para o vídeo
+[Link do vídeo](https://genny.lovo.ai/share/ad8d48d4-6809-41b1-bf7a-7299b6d9f649)
