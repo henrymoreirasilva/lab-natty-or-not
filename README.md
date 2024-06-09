@@ -23,20 +23,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Vídeo curto com um breve texto sobre inteligência artificial
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: utilizado na geração do texto
+Lovo Genny: utilizado para a edição do vídeo, transformação do texto em voz e também para aplicação de algumas imagens e pequenos vídeos existentes em seu repositório
+Leonardo.AI: utilizado para geração de algumas imagens
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Iniciei solicitando ao ChatGPT, com um prompt simples, um texto para um vídeo curto que falasse sobre inteligência artificial.
+Após pesquisar algumas ferramentas de produção de vídeo, acessei o LOVO GENNY. Foi meu primeiro contato com a ferramenta. No Genny, consegui transformar o texto gerado pelo ChatGPT em narração. Importei algumas imagens e vídeos da propria biblioteca do Genny. Também utilizei algumas imagens geradas no Leonardo.AI. O resultado pode ser visto no link abaixo. Foi o primeiro vídeo que criei.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Video criado com conteúdo gerado por IA](https://genny.lovo.ai/share/ad8d48d4-6809-41b1-bf7a-7299b6d9f649)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi bastante desafiador pois optei por criar um vídeo. Como nunca havia criado um, achei que seria a oportunidade ideal para demonstrar como as ferramentas de inteligência artificial podem nos ajudar na crição de conteúdo.
 
 ### Exemplos e Insigths
 
