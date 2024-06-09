@@ -17,6 +17,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
+
+### Resultado
+[Link do vídeo](https://genny.lovo.ai/share/ad8d48d4-6809-41b1-bf7a-7299b6d9f649)
+
 ### Template
 
 ```markdown
@@ -35,12 +39,8 @@ Iniciei solicitando ao ChatGPT, com um prompt simples, um texto para um vídeo c
 Após pesquisar algumas ferramentas de produção de vídeo, acessei o LOVO GENNY. Foi meu primeiro contato com a ferramenta. No Genny, consegui transformar o texto gerado pelo ChatGPT em narração. Importei algumas imagens e vídeos da propria biblioteca do Genny. Também utilizei algumas imagens geradas no Leonardo.AI. O resultado pode ser visto no link abaixo. Foi o primeiro vídeo que criei.
 
 ## 🚀 Resultados
-
+Foi criado um vídeo de 50 segundos com imagens e narração gerada por ferramentas de inteligência artificial.
 
 ## 💭 Reflexão (Opcional)
 Foi bastante desafiador pois optei por criar um vídeo. Como nunca havia criado um, achei que seria a oportunidade ideal para demonstrar como as ferramentas de inteligência artificial podem nos ajudar na crição de conteúdo.
 
-markdown ```
-
-### Link para o vídeo
-[Link do vídeo](https://genny.lovo.ai/share/ad8d48d4-6809-41b1-bf7a-7299b6d9f649)
